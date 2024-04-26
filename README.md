@@ -51,6 +51,9 @@ BrandBridge CRM is an innovative Customer Relationship Management (CRM) solution
 - Create forms, tables, and layouts using the drag-and-drop interface for easy customization.
 - Tailor the platform to meet the unique needs of your agency and clients.
 
+## Screenshots
+Below are some screens from BrandBridge CRM:
+
 ![Dashboard](dashboard.png)
 ![Lead Management](lead_management.png)
 ![Communication Tools](communication_tools.png)
@@ -63,4 +66,3 @@ You can access the live demo of BrandBridge CRM hosted on Vercel. Simply click o
 
 [Access Demo](https://brandbridge-crm.vercel.app/)
 
-Ready to revolutionize your Marketing Agency? Dive into our documentation below and take the first step towards enhancing your workflow.
