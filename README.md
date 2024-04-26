@@ -68,10 +68,11 @@ Below are some screens from BrandBridge CRM:
 ### Communication Tools
 ![Communication Tools 1](communication_tools_1.png)
 ![Communication Tools 2](communication_tools_2.png)
-![Communication Tools 3](communication_tools_3.png)
+
+Feeling intrigued by what you see? Ready to explore more? Follow the steps to access the live demo of BrandBridge CRM hosted on Vercel:
 
 ## Accessing the Project
-You can access the live demo of BrandBridge CRM hosted on Vercel. Simply click on the link below and use the following demo credentials:
+You can access the live demo of BrandBridge CRM on any device. Simply click on the link below and use the following demo credentials:
 
 - **Username:** demo_user
 - **Password:** demo_password
