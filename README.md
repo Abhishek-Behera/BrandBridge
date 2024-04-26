@@ -54,9 +54,21 @@ BrandBridge CRM is an innovative Customer Relationship Management (CRM) solution
 ## Screenshots
 Below are some screens from BrandBridge CRM:
 
-![Dashboard](dashboard.png)
-![Lead Management](lead_management.png)
-![Communication Tools](communication_tools.png)
+### Dashboard
+![Dashboard 1](dashboard_1.png)
+![Dashboard 2](dashboard_2.png)
+
+### Lead Management
+![Lead Management 1](lead_management_1.png)
+![Lead Management 2](lead_management_2.png)
+
+### Dynamic Calendar
+![Dynamic Calendar](dynamic_calendar.png)
+
+### Communication Tools
+![Communication Tools 1](communication_tools_1.png)
+![Communication Tools 2](communication_tools_2.png)
+![Communication Tools 3](communication_tools_3.png)
 
 ## Accessing the Project
 You can access the live demo of BrandBridge CRM hosted on Vercel. Simply click on the link below and use the following demo credentials:
